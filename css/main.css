@@ -105,7 +105,7 @@ nav ul li a{
   display:block;
   width: 90%;
   height:60px;
-  background-color: #222;
+  background-color: rgb(65,172,244);
   color: #fff;
   line-height: 60px;
   text-align: center;
@@ -113,15 +113,15 @@ nav ul li a{
 }
 nav ul li a.selected{
   text-decoration: underline;
-  background: #888;
+  background: rgb(65,172,244);
 }
 nav ul li a:hover{
-  background: #888;
+  background: rgb(65,172,244);
 }
 section{
   width:65%;
   min-height:300px;
-  background: #555;
+  background: rgb(65,172,244);
   float: right;
   margin:10px;
 }
@@ -129,7 +129,7 @@ footer{
   clear: both;
   width:100%;
   height:40px;
-  background: #bbb;
+  background: rgb(65,172,244);
   position: absolute;
   bottom: 0px;
   padding:5px;
