@@ -74,7 +74,7 @@ h2{
 
 .main-container{
   width:960px;
-  background:rgb(66, 244, 167);
+  background:rgb(19, 19, 19);
   margin: 30px auto;
   position: relative;
   overflow: auto;
@@ -83,7 +83,7 @@ h2{
 header{
   width:100%;
   height:100px;
-  background: rgb(66, 223, 244);
+  background: rgb(109, 109, 109);
 }
 .content{
   width:100%;
@@ -93,7 +93,7 @@ aside{
   width:30%;
   min-height: 300px;
   float:left;
-  background:rgb(65, 172, 244);
+  background:rgba(109, 109, 109, 1);
 }
 nav ul{
   margin:10px;
@@ -105,7 +105,7 @@ nav ul li a{
   display:block;
   width: 90%;
   height:60px;
-  background-color: rgb(65,172,244);
+  background-color: rgb(67, 71, 74);
   color: #fff;
   line-height: 60px;
   text-align: center;
@@ -113,15 +113,15 @@ nav ul li a{
 }
 nav ul li a.selected{
   text-decoration: underline;
-  background: rgb(65,172,244);
+  background: rgb(136, 0, 0);
 }
 nav ul li a:hover{
-  background: rgb(65,172,244);
+  background: rgb(136, 0, 0);
 }
 section{
   width:65%;
   min-height:300px;
-  background: rgb(65,172,244);
+  background: rgb(193, 193, 193);
   float: right;
   margin:10px;
 }
@@ -129,7 +129,7 @@ footer{
   clear: both;
   width:100%;
   height:40px;
-  background: rgb(65,172,244);
+  background: rgba(109, 109, 109, 1);
   position: absolute;
   bottom: 0px;
   padding:5px;
