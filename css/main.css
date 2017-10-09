@@ -39,6 +39,7 @@
  }
  body {
  	line-height: 1;
+	background-image: url("http://wallpaperget.com/images/lava-wallpaper-hd-45.jpg");
  }
  ol, ul {
  	list-style: none;
@@ -83,7 +84,7 @@ h2{
 header{
   width:100%;
   height:100px;
-  background: rgb(109, 109, 109);
+  background: rgb(136, 0, 0);
 }
 .content{
   width:100%;
@@ -93,7 +94,7 @@ aside{
   width:30%;
   min-height: 300px;
   float:left;
-  background:rgba(109, 109, 109, 1);
+  background-image: url("http://www.bigislandvideonews.com/wp-content/uploads/2011/09/0923puuoo01.jpg")
 }
 nav ul{
   margin:10px;
