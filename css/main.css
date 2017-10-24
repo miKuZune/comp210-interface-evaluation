@@ -126,9 +126,6 @@ section{
   float: right;
   margin:10px;
 }
-imgHeader{
-	background-image: url("https://github.com/miKuZune/comp210-interface-evaluation/blob/master/images/DescensionLogo.png?raw=true");
-}
 
 footer{
   clear: both;
